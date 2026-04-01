@@ -1,0 +1,9 @@
+[
+  {
+    "packageName": "com.deinname.projekt",
+    "appName": "Telefon",
+    "versionCode": 1,
+    "apkUrl": "https://github.com/SOFTsorf/NexusApps/releases/download/v1.0/app-debug.apk",
+    "description": "Das ist die erste Version meiner App!"
+  }
+]
